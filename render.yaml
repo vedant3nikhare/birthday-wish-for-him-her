@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: happy-birthday-site
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
